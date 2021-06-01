@@ -2,3 +2,6 @@ Soy Antonio Mesa
 Programador
 
 Continuo con el proyecto git
+
+Estamos en la clase de Git y Github
+
