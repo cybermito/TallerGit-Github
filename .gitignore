@@ -1,0 +1,7 @@
+#Ignoramos todos los archivos que terminen en "~"
+*~
+#Ignoramos todos  los archivos que terminen en ".temp"
+*.temp
+#Ignoramos todos los archivos que se llamen password.txt, password.py, password.csv, ..."
+passwords.*
+
