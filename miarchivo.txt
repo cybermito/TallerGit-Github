@@ -3,4 +3,4 @@ Programador
 Continuo con el proyecto git
 
 Estamos en la clase de Git y Github
-Esta modificación no quedará grabada
+Continuamos con las modificaciones del archivo y viendo otras instrucciones
