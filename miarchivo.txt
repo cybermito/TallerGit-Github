@@ -4,3 +4,7 @@ Continuo con el proyecto git
 
 Estamos en la clase de Git y Github
 Continuamos con las modificaciones del archivo y viendo otras instrucciones
+
+Realizo un fork desde github del directorio de ejemplo del curso para poder hacer
+pruebas del libro. 
+
