@@ -8,3 +8,4 @@ Continuamos con las modificaciones del archivo y viendo otras instrucciones
 Realizo un fork desde github del directorio de ejemplo del curso para poder hacer
 pruebas del libro. 
 
+Nuevo cambio, hemos creado un repo remoto llamado TallerGit-Github
