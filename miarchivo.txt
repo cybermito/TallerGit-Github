@@ -7,7 +7,5 @@ Continuamos con las modificaciones del archivo y viendo otras instrucciones
 
 Realizo un fork desde github del directorio de ejemplo del curso para poder hacer
 pruebas del libro. 
-
+Modificado desde Gitgub
 Nuevo cambio, hemos creado un repo remoto llamado TallerGit-Github
-
-Añado otra línea desde github para intentar recrear un conflicto de actualizaciones.
