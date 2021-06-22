@@ -9,3 +9,5 @@ Realizo un fork desde github del directorio de ejemplo del curso para poder hace
 pruebas del libro. 
 
 Nuevo cambio, hemos creado un repo remoto llamado TallerGit-Github
+
+Añado otra línea desde github para intentar recrear un conflicto de actualizaciones.
